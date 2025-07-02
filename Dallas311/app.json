@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Dallas311",
+    "slug": "Dallas311",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/appstore.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/appstore.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/appstore.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/appstore.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1330e291-e539-4732-8cd2-8163eb9fbbcf"
+      }
+    }
+  }
+}
